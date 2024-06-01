@@ -1,7 +1,7 @@
 # NewsApp
 # To Setup and run application
 
-clone the Repository
+clone the Repository.\
 install the required modules by using the command `npm install`.\
 start the application by using the command `npm start`
 
